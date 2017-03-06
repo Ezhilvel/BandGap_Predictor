@@ -1,0 +1,1 @@
+A novel Machine Learning approach to predict the band gap of binary compounds using known physical features.
